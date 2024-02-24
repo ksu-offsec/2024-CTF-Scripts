@@ -4,6 +4,8 @@ https://www.dcode.fr/cipher-identifier
 ## 2: Cyber Chef
 https://gchq.github.io/CyberChef/
 <br>The magic setting is very useful
+## 3: Rumkin
+https://rumkin.com/tools/cipher
 
 # Steganography / Forensics
 
